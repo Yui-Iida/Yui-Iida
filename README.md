@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m a self-taught developer in progress.
+- 🔭 I’m a self-taught developer, currently study at udacity and FrauenLoop.
 - 🌱 I’m currently learning JavaScript, Node.js, React.js, etc.
 - 👯 I’m looking to collaborate on any new projects!
 - 🤔 I’m looking for help with anything, especially for begginer questions.
